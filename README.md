@@ -43,3 +43,13 @@
 - p027-calcular-paga-extra.py
 - p028-retira-cuenta.py
 - p029-calculadora-descuento.py
+
+# Actividad 6 - Actividad de clase
+## Ejecución Condicional (Parte 2)
+
+- p030-verifica-suma.py
+- p031-2da-ley-de-newton.py
+- p032-aceptar-estudiante.py
+- p033-aceptar-estudiante-v2.py
+- p034-tipo-angulo.py
+- p035-tipo-triangulo.py
