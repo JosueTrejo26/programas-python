@@ -145,3 +145,12 @@
 - p095-registro-estudiantes.py
 - p096-procesar-datos-sensores.py
 - p097-producto-punto.py
+
+## Actividad - 15 - Programas hechos en clase
+
+- p098-cuadrados-lista.py
+- p099-filtrar-pares.py
+- p100-normalizar-nombres.py
+- p101-clasificar-temperaturas.py
+- p102-aplanar-matriz.py
+- p103-resumen-ventas.py
