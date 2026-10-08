@@ -154,3 +154,12 @@
 - p101-clasificar-temperaturas.py
 - p102-aplanar-matriz.py
 - p103-resumen-ventas.py
+
+## Actividad 16 - Diccionarios - Parte 1
+
+- p112-datos-estudiante.py
+- p113-calificaciones-estudiante.py
+- p114-nombres-edades.py
+- p115-conversor-unidades.py
+- p116-conversion-divisas.py
+- p117-punto-de-venta.py
