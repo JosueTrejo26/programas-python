@@ -200,3 +200,8 @@
 
 - p130-conjunto-personas.py
 - p131-conjunt-numeros.py
+
+## Tarea 8 - Tuplas
+
+- p133-coordenadas-tuplas.py
+- p134-alumnos-tuplas.py
