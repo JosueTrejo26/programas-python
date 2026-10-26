@@ -205,3 +205,8 @@
 
 - p133-coordenadas-tuplas.py
 - p134-alumnos-tuplas.py
+
+## Actividad 19 - Tuplas
+
+- p131-coordenadas.py
+- p132-alumnos-tuplas.py
