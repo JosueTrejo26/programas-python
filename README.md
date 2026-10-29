@@ -210,3 +210,8 @@
 
 - p131-coordenadas.py
 - p132-alumnos-tuplas.py
+
+## Segundo Examen Parcial
+
+- p136-segundo-examen-parcial.py
+
