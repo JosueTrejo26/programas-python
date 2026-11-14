@@ -244,3 +244,13 @@
 - p158-aleatorios.py
 - p159-nombres.py
 
+## Tarea 8 - Funciones
+
+- p160–numero-menor.py
+- p161-dia-semana.py
+- p162–medidas-longitud.py
+- p163-suma-pares-impares.py
+- p164-suma-digitos.py
+- p165-calcula-factoriales.py
+- p166-estadisticas-basicas.py
+
